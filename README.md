@@ -27,7 +27,7 @@ Our SEN dataset package consists of 3 files: two for English news (url_en.csv, u
 
 Each record contains an id, news url, a named entity mentioned in the headline and a human annotated label (one of “positive”, “neutral”, “negative” ). 
 
-News url enables to access the page of news articles and dowload the news headline that annotation is for. 
+News url enables to access the page of news articles and dowload the news headline that annotation is for. Due to copyrights no headlines are provided.
 
 
 Each headline-entity pair was annotated via team of volunteer researchers (the whole SEN-pl dataset and a subset of 1271 English records: the url_en.csv and url_pl.csv) or via the Amazon Mechanical Turk service (a subset of 1360 English records: url_en_amazon.csv).
